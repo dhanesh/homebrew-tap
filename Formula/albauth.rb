@@ -1,7 +1,6 @@
 class Albauth < Formula
   desc "MCP server for calling HTTP APIs behind an OIDC login proxy"
   homepage "https://dhanesh.github.io/albauth/"
-  version "0.4.0"
   license "MIT"
 
   on_macos do
