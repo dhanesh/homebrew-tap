@@ -1,6 +1,6 @@
 cask "ubilink" do
-  version "0.1.0-rc.5"
-  sha256 "c7d0af0d96b838f92cce2795471fa841b8984b462088ee2f37fe1949d6872dc7"
+  version "0.1.0-rc.6"
+  sha256 "c8ebe048f959dc322d578c43229a5fa7be8f7cf34bbcc2656e640503587303d8"
 
   # The DMG is named after the app version, which carries no -rc suffix.
   url "https://github.com/dhanesh/ubilink/releases/download/v#{version}/Ubilink-#{version.sub(/-rc\.\d+$/, "")}-universal.dmg"
