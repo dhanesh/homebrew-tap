@@ -1,8 +1,8 @@
 class RexResurrect < Formula
   desc "Save Rex sessions, windows, panes and folders; offer to restore them"
   homepage "https://github.com/dhanesh/rex-resurrect"
-  url "https://github.com/dhanesh/rex-resurrect/releases/download/v0.1.1/rex-resurrect.tar.gz"
-  sha256 "f47b6d1cc0408284700deff095a3b1552f3b3e9e127b438fa051ef0dc2192ded"
+  url "https://github.com/dhanesh/rex-resurrect/releases/download/v0.1.2/rex-resurrect.tar.gz"
+  sha256 "1e5053894fb401142c3978ca9b0db8e2b06303bbbcb2da3acec7fd474312721c"
   license "MIT"
 
   def install
