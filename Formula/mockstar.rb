@@ -6,23 +6,23 @@ class Mockstar < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.1/mockstar-bun-darwin-arm64"
-      sha256 "56d87f089fc372e8d1299e18f947084b88c5100d4229600bb1e9521e31300960"
+      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.2/mockstar-bun-darwin-arm64"
+      sha256 "7b2a9706207dc488ef82e3f20ceac7273303efc1aa3e08b037f759c364253d89"
     end
     on_intel do
-      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.1/mockstar-bun-darwin-x64"
-      sha256 "a8c217d19e42bef6c2170e565373ff9d27ee150b7cf7c2e6eb7e8922752c84ca"
+      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.2/mockstar-bun-darwin-x64"
+      sha256 "aaa97feb4326fdd293f872177e330ed3dfa28c0e15b28b71e1fbf14f07537024"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.1/mockstar-bun-linux-arm64"
-      sha256 "f5346ad1ee0eafdde69d1c6afb1c5c8c521873b27abc641e778c936f1e46b2b2"
+      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.2/mockstar-bun-linux-arm64"
+      sha256 "c062145ed34463eef863245368c1008b0929f45c6f91a5341ea5ce7849791045"
     end
     on_intel do
-      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.1/mockstar-bun-linux-x64"
-      sha256 "7d8313d5b47fca0f35caf325821f67b1d5bfd7d7dff12b770faeab615e981b7e"
+      url "https://github.com/dhanesh/mockstar/releases/download/v0.6.2/mockstar-bun-linux-x64"
+      sha256 "4376b531875782e5aa4719f3a914eb35bddb46fd7203843179efec64036f49db"
     end
   end
 
